@@ -42,10 +42,7 @@ The repository is organized as follows:
 
 ## Usage
 Each section of the repository contains detailed instructions and materials to aid in your study and practice. Here are some key highlights:
-- **Docs**: Contains detailed study guides and notes on each topic.
 - **Exercises**: Practical exercises to reinforce your understanding.
-- **Scripts**: Helpful scripts to automate common tasks.
-- **resources**: Real-world configurations to help understand best practices.
 
 ### Exercises Usage
 To run a sample script from the `HCL Code` directory:
